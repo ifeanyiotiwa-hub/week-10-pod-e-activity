@@ -48,7 +48,6 @@ out/
 ## Eclipse
 ##############################
 .settings/
-bin/
 tmp/
 .metadata
 .classpath
@@ -81,3 +80,4 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+HELP.md
